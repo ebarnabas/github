@@ -1,0 +1,5 @@
+vezeteknev=input("Vezetéknév: ")
+keresztnev=input("Keresztnév: ")
+bornyear=input("Születési év: ")
+star=input("Csillagjegyed: ")
+print("A te neved",vezeteknev, keresztnev,"és",bornyear+"-ben születtél és a csillagjegyed",star+".")
